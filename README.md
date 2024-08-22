@@ -26,8 +26,8 @@ Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
 </details>
 
 <div align="left">
-  <a href='www.linkedin.com/in/cauã-marques-4b73b5242'<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
-  <a href='https://www.instagram.com/_claytinhoo/'<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" /></a>
+  <a href='https://www.linkedin.com/in/cau%C3%A3-marques-4b73b5242/' target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"></a>
+  <a href='https://www.instagram.com/_claytinhoo/' target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"></a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
 </div>
 
