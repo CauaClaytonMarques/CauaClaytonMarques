@@ -1,10 +1,10 @@
-###
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+Mundo,+sou+Cauã+Clayton+Marques;Sou+um+Desenvolvedor+Front-End.)](https://git.io/typing-svg)
 </div>
 
+  
 <p>
 Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
 
@@ -28,7 +28,6 @@ Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
 <div align="left">
   <a href='https://www.linkedin.com/in/cau%C3%A3-marques-4b73b5242/' target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"></a>
   <a href='https://www.instagram.com/_claytinhoo/' target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"></a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
 </div>
 
 <div align="center">
@@ -51,11 +50,7 @@ Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
 <h4 align="left">Tools & Frameworks 🔗</h4>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -72,20 +67,12 @@ Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
   <img width="12" />
 </div>
 
-###
-
 <h4 align="left">Libraries 🔗</h4>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/CauaClaytonMarques/count.svg?"  />
 </div>
-
-###
