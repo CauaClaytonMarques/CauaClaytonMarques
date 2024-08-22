@@ -73,6 +73,4 @@ Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/CauaClaytonMarques/count.svg?"  />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
