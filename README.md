@@ -31,9 +31,11 @@ Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CauaClaytonMarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CauaClaytonMarques&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaClaytonMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaClaytonMarques&show_icons=true&theme=codeSTACKr&hide_border=true&order=2")
+  
+  <img src="https://streak-stats.demolab.com?user=CauaClaytonMarques&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaClaytonMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph">
 </div>
 
 <h3 align="left">🔥 Skills 🔗</h3>
