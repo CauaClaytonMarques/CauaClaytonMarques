@@ -31,11 +31,7 @@ Hello 👋, I'm Cauã, a passionate ABAP developer from Brazil.
 </div>
 
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaClaytonMarques&show_icons=true&theme=codeSTACKr&hide_border=true&order=2")
-  
   <img src="https://streak-stats.demolab.com?user=CauaClaytonMarques&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaClaytonMarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph">
 </div>
 
 <h3 align="left">🔥 Skills 🔗</h3>
