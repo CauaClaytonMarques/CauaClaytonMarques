@@ -11,7 +11,7 @@ Hello 👋, I'm Cauã, a passionate ABAP developer from Brazil.
 * 🌱 I'm currently studying Web Development and Systems Analysis and Development at Cruzeiro do Sul.
 
 
-* 💻 I'm looking for my first job opportunity. My dream is to one day work as a Front-End Developer.
+* 💻 I'm looking for my first job opportunity. My dream is to one day work as a ABAP Developer.
   
 </p>
 
