@@ -6,7 +6,7 @@
 
   
 <p>
-Hello 👋, I'm Cauã, a passionate front-end developer from Brazil.
+Hello 👋, I'm Cauã, a passionate ABAP developer from Brazil.
 
 * 🌱 I'm currently studying Web Development and Systems Analysis and Development at Cruzeiro do Sul.
 
